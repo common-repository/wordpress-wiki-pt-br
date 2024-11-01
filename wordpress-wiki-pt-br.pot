@@ -1,0 +1,90 @@
+# WORDPRESS WIKI PT-BR
+# This file is put in the public domain.
+# DIEGO TABISZ DE FREITAS ,<BACKDOORGRAFFO@GMAIL.COM> - 2009
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.6\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wordpress-wiki-pt-br\n"
+"POT-Creation-Date: 2009-02-19 18:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FDIEGO TABISZ DE FREITAS <BACKDOORGRAFFO@GMAIL.COM>\n"
+"Language-Team: CURITIBLOGS <CONTATO@CURITIBLOGS.COM.BR>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: wordpress-wiki.php:84
+#, php-format
+msgid "%1$s by %2$s|post revision 1:datetime, 2:name"
+msgstr "%1$s por %2$s|revisão do artigo 1:datetime, 2:name"
+
+#: wordpress-wiki.php:131
+msgid "j F, Y @ G:i|revision date format"
+msgstr "j F, Y @ G:i|formato da data de revisão"
+
+#: wordpress-wiki.php:132
+#, php-format
+msgid "%s [Salvar Automaticamente]"
+msgstr ""
+
+#: wordpress-wiki.php:133
+#, php-format
+msgid "%s [Current Revision]"
+msgstr "[Revisão atual]"
+
+#: wordpress-wiki.php:215
+msgid "Wordpress Wiki"
+msgstr "Wordpress Wiki"
+
+#: wordpress-wiki.php:401
+msgid "Recently modifiyed wiki pages for : "
+msgstr "Páginas recentemente modificados por :"
+
+#: wordpress-wiki.php:411
+msgid "wiki URL: "
+msgstr "Endereço wiki"
+
+#: wordpress-wiki.php:412
+msgid "Modifiyed By: "
+msgstr "Modificado por:"
+
+#: wordpress-wiki.php:453
+msgid "No contributions yet."
+msgstr "Nenhuma contribuição."
+
+#: wordpress-wiki.php:499
+msgid "You have made no contributions"
+msgstr "Você não realizou nenhuma contribuição"
+
+#: wordpress-wiki.php:555
+msgid "Title:"
+msgstr "Título:"
+
+#: wordpress-wiki.php:560
+msgid "Number of posts to show:"
+msgstr "Número de artigos para mostrar:"
+
+#: wordpress-wiki.php:568
+msgid "My Contributions widget for WordPress Wiki Plugin"
+msgstr "Widget Minhas Contribuições"
+
+#: wordpress-wiki.php:569 wordpress-wiki.php:570
+msgid "My Contributions"
+msgstr "Minhas Contribuições"
+
+#: wordpress-wiki.php:640
+msgid "Sorry, the page with title "
+msgstr "Desculpe, mas uma página com este título"
+
+#: wordpress-wiki.php:640
+msgid " is not created yet. Click"
+msgstr "ainda não foi criada. Clique"
+
+#: wordpress-wiki.php:640
+msgid "here"
+msgstr "aqui"
+
+#: wordpress-wiki.php:640
+msgid " to create a new page with that title."
+msgstr "para criar uma nova página com este título."
